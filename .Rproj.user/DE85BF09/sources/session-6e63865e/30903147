@@ -1,7 +1,7 @@
 {
     "id": "30903147",
-    "path": "C:/Users/gabri/Dropbox/NYU/[24 Fall] AP Core/hayes_lawless_2018/rascunho.R",
-    "project_path": "rascunho.R",
+    "path": "C:/Users/gabri/Dropbox/NYU/[24 Fall] AP Core/hayes_lawless_2018/code.R",
+    "project_path": "code.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "100,0",
-        "scrollLine": "83"
+        "cursorPosition": "4,5",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730065686,
+    "lastKnownWriteTime": 1730066063,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730065686125,
+    "last_content_update": 1730066063,
     "read_only": false,
     "read_only_alternatives": []
 }
